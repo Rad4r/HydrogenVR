@@ -89,47 +89,49 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11416}
+      Script: {instanceID: 11414}
     - Class: 114
-      Script: {instanceID: 11442}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11520}
+      Script: {instanceID: 11518}
     - Class: 114
-      Script: {instanceID: 11674}
+      Script: {instanceID: 11672}
     - Class: 114
-      Script: {instanceID: 11896}
+      Script: {instanceID: 11894}
     - Class: 114
-      Script: {instanceID: 12020}
+      Script: {instanceID: 12018}
     - Class: 114
-      Script: {instanceID: 12262}
+      Script: {instanceID: 12260}
     - Class: 114
-      Script: {instanceID: 12310}
+      Script: {instanceID: 12308}
     - Class: 114
-      Script: {instanceID: 12374}
+      Script: {instanceID: 12372}
     - Class: 114
-      Script: {instanceID: 12428}
+      Script: {instanceID: 12426}
     - Class: 114
-      Script: {instanceID: 12532}
+      Script: {instanceID: 12530}
     - Class: 114
-      Script: {instanceID: 12688}
+      Script: {instanceID: 12686}
     - Class: 114
-      Script: {instanceID: 12828}
+      Script: {instanceID: 12826}
     - Class: 114
-      Script: {instanceID: 13006}
+      Script: {instanceID: 13004}
     - Class: 114
-      Script: {instanceID: 13312}
+      Script: {instanceID: 13310}
     - Class: 114
-      Script: {instanceID: 13336}
+      Script: {instanceID: 13334}
     - Class: 114
-      Script: {instanceID: 13388}
+      Script: {instanceID: 13386}
     - Class: 114
-      Script: {instanceID: 13416}
+      Script: {instanceID: 13414}
     - Class: 114
-      Script: {instanceID: 13436}
+      Script: {instanceID: 13434}
     - Class: 114
-      Script: {instanceID: 13440}
+      Script: {instanceID: 13438}
     - Class: 114
-      Script: {instanceID: 13742}
+      Script: {instanceID: 13740}
+    - Class: 114
+      Script: {instanceID: 13832}
     - Class: 114
       Script: {instanceID: 13874}
     - Class: 114
@@ -142,11 +144,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14232}
     - Class: 114
       Script: {instanceID: 14412}
-    - Class: 114
-      Script: {instanceID: 22048}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 134
       Script: {instanceID: 0}
     - Class: 135
       Script: {instanceID: 0}
@@ -1619,6 +1621,12 @@ ScriptsOnlyBuild:
     className: SkewTextExample
   - hash:
       serializedVersion: 2
+      Hash: 3b21b4ee156f816dcff5ca75067f3533
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ButtonPress
+  - hash:
+      serializedVersion: 2
       Hash: fe2d355deb0ca31d59a0a7cf4d141fc3
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -2007,12 +2015,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 3b21b4ee156f816dcff5ca75067f3533
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ButtonPress
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
