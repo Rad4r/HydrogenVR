@@ -167,8 +167,38 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 92
 --- !u!114 &8
+=======
+  controlID: 90
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 231
+    height: 731
+  m_MinSize: {x: 231, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 18
+--- !u!114 &7
+>>>>>>> main
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -218,7 +248,11 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 97
+=======
+  controlID: 91
+>>>>>>> main
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -448,9 +482,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: c0390000
       m_LastClickedID: 0
       m_ExpandedIDs: 48f7ffff68fbffff
+=======
+      m_SelectedIDs: 8e550000
+      m_LastClickedID: 21902
+      m_ExpandedIDs: cef0ffff
+>>>>>>> main
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -518,14 +558,22 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: D:\Unity\Hydrogen VR CLone\HydrogenVR\Block2Group
+=======
+  m_LastProjectPath: C:\Users\hanim\Documents\GitHub\HydrogenVR\Block2Group
+>>>>>>> main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 2a3a0000
     m_LastClickedID: 14890
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b6390000b8390000ba390000bc390000be390000c0390000
+=======
+    m_ExpandedIDs: 000000004e5600005056000052560000545600005656000058560000
+>>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -553,7 +601,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000b6390000b8390000ba390000bc390000c0390000
+=======
+    m_ExpandedIDs: ffffffff000000004e5600005056000052560000545600005656000058560000
+>>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: Materials
@@ -645,9 +697,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -1.238616, y: -5.4496846, z: 9.754177}
     speed: 2
     m_Value: {x: -1.238616, y: -5.4496846, z: 9.754177}
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: -0.2465504, y: -3.189177, z: 10.771296}
+>>>>>>> main
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -697,9 +755,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.23298405, y: -0.07227734, z: 0.01736673, w: -0.9696358}
   m_Size:
+<<<<<<< HEAD
     m_Target: 13.038851
     speed: 2
     m_Value: 13.653247
+=======
+    m_Target: 10
+    speed: 2
+    m_Value: 8.034522
+>>>>>>> main
   m_Ortho:
     m_Target: 0
     speed: 2
